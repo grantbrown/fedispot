@@ -24,7 +24,7 @@ The proposed structure is organized hierarchically, with each level imposing add
 
 ## A. Universal Required Elements
 
-1. Invocation – some indication that fedispot should recognize the activation
+1. Invocation – some indication that fedispot should recognize the activation. Could be a hashtag or @ for a bot. 
 2. Callsign (or an alternative registration mechanism)
 3. Frequency (KHZ)
 
